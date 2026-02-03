@@ -18,7 +18,7 @@ This repository contains my Jupyter notebooks practicing core Python data scienc
 
 ---
 
-## 🤖 Machine Learning Projects
+##  Machine Learning Projects
 
 This repository includes applied machine learning projects using real-world datasets:
 
@@ -33,7 +33,7 @@ This repository includes applied machine learning projects using real-world data
 
 ---
 
-## 🧠 ML Models Practice
+##  ML Models Practice
 
 The `ml_models` folder contains implementations and experiments with **multiple popular machine learning algorithms**.  
 These notebooks focus on understanding model behavior, strengths, and evaluation techniques rather than single end-to-end applications.
